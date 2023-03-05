@@ -1,1 +1,1 @@
-vim je suis la premiere ligne du fichier toto.txt
+je suis la premiere ligne du fichier toto.txt
