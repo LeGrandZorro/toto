@@ -1,1 +1,2 @@
 Bonjour création du fichier tata.txt
+ajout d'une deuxième ligne au fichier tata.txt
